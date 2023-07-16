@@ -19,7 +19,7 @@
   ![Screenshot (191)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/cc859f98-dfbb-4554-bc93-82b9d4330ee5)
 
 
-      ![Screenshot (192)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/236c7931-67b0-46fc-8b9e-aa030a92b54c)
+   ![Screenshot (192)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/236c7931-67b0-46fc-8b9e-aa030a92b54c)
 
 
       
