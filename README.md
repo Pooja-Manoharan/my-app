@@ -3,20 +3,20 @@
 
       1) Loading Screen
 
-      ![Screenshot (193)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/ddf5de77-f106-4110-905e-68c7f1ac88a5)
+  ![Screenshot (193)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/ddf5de77-f106-4110-905e-68c7f1ac88a5)
 
 
       2) Google authentication login 
 
-      ![Screenshot (190)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/7a1ca72c-29d8-494c-b1d2-1de0463740d2)
+  ![Screenshot (190)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/7a1ca72c-29d8-494c-b1d2-1de0463740d2)
 
 
       3)Api Based Search box
 
-      ![Screenshot (189)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/d35919cf-c614-4a1a-a616-46831359ae5b)
+  ![Screenshot (189)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/d35919cf-c614-4a1a-a616-46831359ae5b)
 
 
-      ![Screenshot (191)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/cc859f98-dfbb-4554-bc93-82b9d4330ee5)
+  ![Screenshot (191)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/cc859f98-dfbb-4554-bc93-82b9d4330ee5)
 
 
       ![Screenshot (192)](https://github.com/Pooja-Manoharan/my-app/assets/114828454/236c7931-67b0-46fc-8b9e-aa030a92b54c)
